@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            React running inside a docker container.
+            Project was modified on the Feature branch.
           </p>
           <a
             className="App-link"
